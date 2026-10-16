@@ -1,4 +1,0 @@
-interface:
-  display_name: "南大人机交互课程助手"
-  short_description: "整理自南京大学人机交互系统课程，辅助课程复习、需求分析与可用性评估"
-  default_prompt: "使用 $nju-hci，结合课程资料帮我分析这个交互问题，并注明适用条件与证据。"

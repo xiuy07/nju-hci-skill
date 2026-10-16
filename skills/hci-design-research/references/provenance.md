@@ -6,7 +6,7 @@
 
 ## 使用范围
 
-适合本科 HCI 复习、课程案例、人物角色与场景、HTA、原型选择、初步可用性评审、研究计划和 GOMS/KLM/Fitts 教学建模。以交互需求、设计、评估、认知基础、UCD 为核心，不是完整现代 HCI 教材，不替代真实用户研究、正式统计审查、无障碍认证或行业合规评估。纯视觉设计和普通编码不属于主要触发场景。
+适合实际交互系统的需求与流程设计、界面方案和实现、可用性评审、用户研究、实验方案与数据分析，以及 GOMS/KLM/Fitts 效率建模。以用户任务、设计原则和研究证据支持决策，不以课程复习为主要用途。它不是完整现代 HCI 教材，不替代真实用户证据、统计专项审查、无障碍认证或行业合规评估。纯视觉风格和不涉及交互决策的编码不属于主要触发场景。
 
 ## 疑点与处理
 
@@ -35,5 +35,7 @@
 - [Jakob Nielsen：短时记忆与网页可用性](https://www.nngroup.com/articles/short-term-memory-and-web-usability/)
 - [Soukoreff & MacKenzie：Fitts 公式对照](https://www.yorku.ca/mack/gflmb_chi95.html)
 - [MacKenzie：吞吐量](https://www.yorku.ca/mack/FittsLawSoftware/doc/Throughput.html)
+- [SciPy：独立样本与 Welch t](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html)、[配对 t](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_rel.html)、[Wilcoxon](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.wilcoxon.html)
+- [statsmodels：McNemar](https://www.statsmodels.org/stable/generated/statsmodels.stats.contingency_tables.mcnemar.html)
 
 其他补充是解释与应用建议，正式研究或争议细节需进一步核验。本包未对原课程材料声明开源许可，也未据此授予原资料再分发权。
