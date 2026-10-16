@@ -1,0 +1,4 @@
+interface:
+  display_name: "Interaction Design and Research"
+  short_description: "Apply HCI to interfaces, compatibility, research and experiments"
+  default_prompt: "Use $hci-design-research to design or review an interaction for the actual platform version and user goals, then validate decisions with appropriate research and analysis."

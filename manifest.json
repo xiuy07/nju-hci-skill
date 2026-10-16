@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "name": "hci-design-research",
+  "version": "2.0.0",
+  "release_date": "2026-10-17",
+  "default_language": "zh-CN",
+  "packages": {
+    "zh-CN": "skills/hci-design-research",
+    "en": "locales/en/skills/hci-design-research"
+  },
+  "invocation": "$hci-design-research",
+  "reference_files": [
+    "requirements-design.md",
+    "principles-review.md",
+    "research-evaluation.md",
+    "experimental-analysis.md",
+    "interaction-models.md",
+    "compatibility.md",
+    "ai-interaction.md"
+  ],
+  "runtime_dependencies": [],
+  "install_one_language": true
+}
