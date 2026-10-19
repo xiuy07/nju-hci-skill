@@ -38,7 +38,7 @@ Copy one complete directory into `$CODEX_HOME/skills/hci-design-research`, usual
 Alternatively, ask an installation tool:
 
 ```text
-Install locales/en/skills/hci-design-research from Finn-307/nju-hci-skill.
+Install locales/en/skills/hci-design-research from xiuy07/nju-hci-skill.
 ```
 
 The private repository requires existing read access. Try invocation on the next turn; reopen the chat or restart the client if discovery has not refreshed. The method package requires no additional runtime or particular model. Analysis and implementation use available environment tools.

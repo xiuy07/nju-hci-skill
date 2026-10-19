@@ -38,7 +38,7 @@
 也可请求安装工具：
 
 ```text
-从 Finn-307/nju-hci-skill 安装 skills/hci-design-research。
+从 xiuy07/nju-hci-skill 安装 skills/hci-design-research。
 ```
 
 英文版将路径改为 `locales/en/skills/hci-design-research`。私有仓库读取需要现有权限。安装后在下一轮尝试调用；若客户端未刷新，重新打开聊天或重启客户端。方法包无需额外运行时或指定模型；分析和实现使用当前环境已有工具。
