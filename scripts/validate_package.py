@@ -25,7 +25,7 @@ def validate(root):
             if not path.is_file():
                 continue
             content = path.read_text(encoding='utf-8')
-            assert '南京大学' not in content and 'Nanjing University' not in content, path
+            assert not re.search(r'university|大学', content, re.I), path
             assert not re.search(r'https?://', content), f'Source links belong in README: {path}'
             assert 'TODO' not in content and 'TBD' not in content, path
     assert language_layouts[0] == language_layouts[1], 'Language layouts differ'

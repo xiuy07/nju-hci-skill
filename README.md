@@ -2,7 +2,7 @@
 
 [English](README.en.md) · [中文技能入口](skills/hci-design-research/SKILL.md) · [English skill](locales/en/skills/hci-design-research/SKILL.md)
 
-`hci-design-research` 用于实际交互项目：将原则落实到界面与流程，评审可用性，设计用户研究和对照实验，分析数据并解释对设计的意义。重点是设计与研究，不以课程复习为主要用途。
+`hci-design-research` 用于实际交互项目：将原则落实到界面与流程，评审可用性，设计用户研究和对照实验，分析数据并解释对设计的意义。适用于真实产品中的交互改进与设计研究。
 
 ## 本版更新
 
@@ -10,7 +10,7 @@
 - 正式记录 `2.0.0` 版本，补充升级、回退、语言切换，以及项目、平台、规范、量表和数据版本适配。
 - 扩展异步状态、未知结果、错误恢复、信息架构、无障碍交互、远程研究、实验数据质量、重复测量、效应与不确定性。
 - 增加 AI 协作界面的能力预期、控制、纠错与端到端效用评估。
-- 所有出处、外部参考链接和原资料校订说明集中在 README；技能工作文件不夹带来源介绍。
+- 方法来源与外部参考集中在 README，技能工作文件专注实际任务。
 
 ## 适用场景与预期结果
 
@@ -90,9 +90,9 @@
 
 ## 来源与参考
 
-**基础内容整理自南京大学人机交互系统课程。** 非官方整理，不代表南京大学或任课教师意见。依据的资料为 33 页，未上传原 PDF、全文提取或页面截图。
+本项目将常用的人机交互方法整理为可执行的设计与研究流程，提供评审要点、实验方案和分析模板。
 
-基础覆盖交互原则与目标、人物角色和场景、需求与原型、HTA、评估方法、实验设计、认知基础、GOMS/KLM/Fitts、UCD。原笔记中的猜题批注不作为技能要求；修正了专家人数与用户人数混用、7±2 硬套菜单、UX/可用性过度二分、原型阶段和技术绑定、研究分类、KLM 符号及 Fitts 缺字等问题。例子、模板、适配流程和工程建议是重述与综合，不声称均为课程或论文原文。
+内容覆盖交互原则与目标、人物角色与场景、需求与原型、HTA、评估方法、实验设计、认知基础、GOMS/KLM/Fitts 和 UCD。
 
 下列一手资料用于核对和补充，查阅日期 2026-10-17。链接按主题集中列出，正文不复制整套指南：
 
@@ -110,4 +110,4 @@
 | 配对与重复结构 | [statsmodels：McNemar](https://www.statsmodels.org/stable/generated/statsmodels.stats.contingency_tables.mcnemar.html)、[线性混合模型](https://www.statsmodels.org/stable/mixed_linear.html) |
 | 人机 AI 协作 | [Amershi 等：Guidelines for Human-AI Interaction，CHI 2019](https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/)、[论文全文](https://www.microsoft.com/en-us/research/wp-content/uploads/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf) |
 
-可访问性规范、模式和统计方法有各自适用范围；未声称对全部内容进行完整学术审校。没有为课程或第三方资料声明开源许可，也不据此授予原资料再分发权。
+各项规范、设计模式和统计方法按其适用条件使用，第三方资料的授权条件以原发布页面为准。

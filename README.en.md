@@ -10,7 +10,7 @@
 - Version 2.0.0 with upgrade, rollback, language switching, and project, platform, standard, instrument, and data compatibility guidance.
 - Expanded asynchronous states, unknown outcomes, recovery, information architecture, accessible behavior, remote studies, data quality, repeated measurement, effects, and uncertainty.
 - Optional human-AI interaction guidance covering expectations, control, correction, and end-to-end usefulness.
-- Source attribution, external references, and editorial corrections are centralized in README files.
+- Method sources and external references are centralized in README files; skill files focus on practical tasks.
 
 ## Use cases
 
@@ -90,8 +90,8 @@ Keep meanings and versions synchronized, check official documentation affected b
 
 ## Attribution and sources
 
-The foundational material is **organized from the Nanjing University Human-Computer Interaction Systems course**. This is an unofficial adaptation without university or instructor endorsement. The 33-page source PDF, extracted text, and screenshots are not included.
+This project organizes established HCI methods into practical design and research workflows, including review criteria, experiment plans, and analysis templates.
 
-The foundation covers interaction principles, personas and scenarios, requirements and prototypes, HTA, evaluation, experimental design, cognition, GOMS/KLM/Fitts, and UCD. Editorial corrections address participant/expert counts, memory-number overgeneralization, usability/UX simplification, prototype assumptions, study categories, and model notation. Examples, templates, compatibility procedures, and engineering recommendations are synthesized rather than represented as verbatim course or paper content.
+It covers interaction principles, personas and scenarios, requirements and prototypes, HTA, evaluation, experimental design, cognition, GOMS/KLM/Fitts, and UCD.
 
-The [source register in the Chinese README](README.md#来源与参考) lists primary references, checked on 2026-10-17: Nielsen and Shneiderman, W3C WCAG and APG, GOV.UK user research, Google Research HEART, MacKenzie's modeling work, SciPy and statsmodels method documentation, and Microsoft Research human-AI interaction. Scope and applicability differ across standards, patterns, and methods; this is not a comprehensive academic review. No open-source license is asserted for the original course or third-party materials, and no redistribution rights to those materials are granted.
+The [source register in the Chinese README](README.md#来源与参考) lists primary references, checked on 2026-10-17: Nielsen and Shneiderman, W3C WCAG and APG, GOV.UK user research, Google Research HEART, MacKenzie's modeling work, SciPy and statsmodels method documentation, and Microsoft Research human-AI interaction. Apply each standard, pattern, and method within its stated scope. Third-party materials retain the licensing terms provided by their original publishers.
